@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dokument_Jeny\\\u0423\u043D\u0456\u0432\u0435\u0440\\1 \u043A\u0443\u0440\u0441\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211612.2\\PR_12.2(iter)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB73F560-C7A8-45BA-898A-A1EF7D3FC528}|PR_12.2(iter)\\PR_12.2(iter).vcxproj|D:\\Dokument_Jeny\\\u0423\u043D\u0456\u0432\u0435\u0440\\1 \u043A\u0443\u0440\u0441\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211612.2\\PR_12.2(iter)\\PR_12.2(iter)\\PR_12.2(iter).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AB73F560-C7A8-45BA-898A-A1EF7D3FC528}|PR_12.2(iter)\\PR_12.2(iter).vcxproj|solutionrelative:PR_12.2(iter)\\PR_12.2(iter).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A61DB60-8C84-4E0C-943B-EFD5BD9BFE4E}|UnitTest1\\UnitTest1.vcxproj|D:\\Dokument_Jeny\\\u0423\u043D\u0456\u0432\u0435\u0440\\1 \u043A\u0443\u0440\u0441\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211612.2\\PR_12.2(iter)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A61DB60-8C84-4E0C-943B-EFD5BD9BFE4E}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 238,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "D:\\Dokument_Jeny\\\u0423\u043D\u0456\u0432\u0435\u0440\\1 \u043A\u0443\u0440\u0441\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211612.2\\PR_12.2(iter)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "D:\\Dokument_Jeny\\\u0423\u043D\u0456\u0432\u0435\u0440\\1 \u043A\u0443\u0440\u0441\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211612.2\\PR_12.2(iter)\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T17:20:57.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PR_12.2(iter).cpp",
+              "DocumentMoniker": "D:\\Dokument_Jeny\\\u0423\u043D\u0456\u0432\u0435\u0440\\1 \u043A\u0443\u0440\u0441\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211612.2\\PR_12.2(iter)\\PR_12.2(iter)\\PR_12.2(iter).cpp",
+              "RelativeDocumentMoniker": "PR_12.2(iter)\\PR_12.2(iter).cpp",
+              "ToolTip": "D:\\Dokument_Jeny\\\u0423\u043D\u0456\u0432\u0435\u0440\\1 \u043A\u0443\u0440\u0441\\\u0410\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0456\u0437\u0430\u0446\u0456\u044F\\2 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0430 \u0440\u043E\u0431\u043E\u0442\u0430 \u211612.2\\PR_12.2(iter)\\PR_12.2(iter)\\PR_12.2(iter).cpp",
+              "RelativeToolTip": "PR_12.2(iter)\\PR_12.2(iter).cpp",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-01T17:20:39.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 80,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
